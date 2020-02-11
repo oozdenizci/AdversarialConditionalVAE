@@ -1,6 +1,6 @@
 # Adversarially Censored Conditional Variational Autoencoders
 
-This is an implementation of adversarially censored conditional variational autoencoder (cVAE) models for invariant latent space learning. Conventional cVAE model learning is performed within an adversarial training setting to monitor and/or censor nuisance-specific leakage in the learned latent space. Implementation is in Python using Keras with Tensorflow backend, and was intended to be used for electroencephalographic (EEG) data. This is a re-implementation of presented work (see below) with arbitrary encoder-decoder architectures.
+This is an implementation of adversarially censored conditional variational autoencoder (cVAE) models for invariant latent space learning. Conventional cVAE model learning is performed within an adversarial training setting to monitor and/or censor nuisance-specific leakage in the learned latent space. Implementation is in Python using Keras with Tensorflow backend, and was implemented to be used with electroencephalographic (EEG) data. This is a re-implementation of presented work (see below) with arbitrary encoder-decoder architectures.
 
 # Usage
 
